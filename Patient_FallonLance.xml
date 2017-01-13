@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:patient xmlns:tns="http://www.bycwebsolutions.org/Patient"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.bycwebsolutions.org/Patient xsd/Patient.xsd ">
+	<tns:id>1</tns:id>
+	<tns:name>Lance Fallon</tns:name>
+	<tns:age>30</tns:age>
+	<tns:dob>1986-10-12</tns:dob>
+	<tns:gender>M</tns:gender>
+	<tns:email>fallon.lance@gmail.com</tns:email>
+	<tns:phone>4108425526</tns:phone>
+</tns:patient>
