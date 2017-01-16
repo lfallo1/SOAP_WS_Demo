@@ -16,7 +16,7 @@
 			<element name="dob" type="date" />
 			<element name="gender" type="tns:Gender" />
 			<element name="email" type="tns:EmailList" />
-			<element name="phone" type="string" />
+			<element name="phone" type="string" maxOccurs="2" />
 			<element name="payment" type="tns:PaymentType" />
 		</sequence>
 		
